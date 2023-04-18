@@ -55,7 +55,7 @@ Simple Anonymous chat-bot Telegram
 * Download And Install visual studio code => https://code.visualstudio.com/
 
 ```bash
-git clone https://github.com/Rianfirnanda/telegram-anonymous-chat.git
+git clone https://github.com/kapiiid/botanon
 cd telegram-anonymous-chat
 pip3 install -r requirements.txt
 pip install amanobot
